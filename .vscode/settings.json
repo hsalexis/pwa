@@ -1,0 +1,9 @@
+{
+    "editor.formatOnPaste": true,
+    "html.format.extraLiners": "",
+    "html.format.indentHandlebars": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnType": true,
+    "editor.minimap.maxColumn": 40
+}
