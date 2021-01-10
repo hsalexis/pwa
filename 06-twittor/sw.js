@@ -5,6 +5,7 @@ const CACHE_DYNAMIC = 'dynamic-v1';
 const CACHE_INMUTABLE = 'inmutable-v1';
 const APP_SHELL = [
     '/',
+    '/pwa/06-twittor/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
